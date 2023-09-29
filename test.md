@@ -9,3 +9,6 @@
 * **git checkout master/main** - вернуться к актуальному состоянию и продолжить работу
 * **git diff** - увидеть разницу между текущим файлом и закоммиченым файлом
 # Синтаксис языка Markdown
+Справочник по Markdown от Microsoft: https://docs.microsoft.com/ru/contribute/markdown-reference
+
+
