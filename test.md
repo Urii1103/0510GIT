@@ -3,6 +3,8 @@
 
 * **git branch** - показать все ветки
 
+* **git commit -m "message"** - создание коммита
+* **git checkout master/main** - вернуться к 
 * **git checkout -b name** - создание и переход на следующую ветку
 
 * **git merge** - слияние веток
